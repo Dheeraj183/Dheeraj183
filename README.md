@@ -42,10 +42,6 @@ Here are some ideas to get you started:
 
 ---
 
-### 📈 GitHub Stats
-
-![Dheeraj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Dheeraj183&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dheeraj183&layout=compact)
 
 ---
 
