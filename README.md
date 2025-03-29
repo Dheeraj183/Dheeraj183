@@ -40,6 +40,7 @@ Here are some ideas to get you started:
 - **Tools**: Tableau, Power BI, Git, Docker, Kubernetes, Jenkins
 - **Cloud**: AWS, GCP, Azure
 
+---
 
 ### 🚀 Projects Spotlight
 
